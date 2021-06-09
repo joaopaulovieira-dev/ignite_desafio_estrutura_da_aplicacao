@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.ignite_desafio_estrutura_da_aplicacao",
+  "variantName": "debug",
+  "elements": []
+}
