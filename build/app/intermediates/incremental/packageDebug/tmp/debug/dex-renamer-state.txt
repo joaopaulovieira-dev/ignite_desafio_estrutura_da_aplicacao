@@ -1,4 +1,4 @@
-#Wed Jun 09 16:29:31 BRT 2021
+#Mon Jun 14 17:55:38 BRT 2021
 base.0=D\:\\OneDrive\\Ignite - Trilha Flutter\\Desafios\\Desafio 01 - Estrutura da aplicacao\\ignite_desafio_estrutura_da_aplicacao\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
