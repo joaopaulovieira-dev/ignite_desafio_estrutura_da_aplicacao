@@ -1,16 +1,9 @@
-# ignite_desafio_estrutura_da_aplicacao
+<p align="center"><img src="https://joaopaulovieira.dev/img_github/ignite_desafio_estrutura_da_aplicacao/ignite_trilha_flutter.png" /></p>
 
-A new Flutter project.
+# Desafio 01 - Estrutura da aplicação
 
-## Getting Started
+- Nesse desafio pude componentizar os widgets que estão nas pages com o intuito de fazer a separação de responsabilidades da aplicação e, assim, melhorar a manutenibilidade e deixar a estrutura do mesmo mais intuitiva.
 
-This project is a starting point for a Flutter application.
+### Telas do App
+<img src="https://joaopaulovieira.dev/img_github/ignite_desafio_estrutura_da_aplicacao/1623705982635.jpg" width="380px"/>  <img src="https://joaopaulovieira.dev/img_github/ignite_desafio_estrutura_da_aplicacao/1623705982630.jpg" width="380px"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
